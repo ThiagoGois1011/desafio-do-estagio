@@ -16,7 +16,7 @@ Neste Repositório possui uma folha de respostas das questões propostas pela Ta
 
 Acesse a página do projeto aqui: [Desafio](https://thiagogois1011.github.io/desafio-do-estagio/)
 
-## Contanto
+## Contato
 Meu <a href="https://www.linkedin.com/in/thiago-gois-ba26b1238/" target="_blank">Linkedin</a>.
 
 
